@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://us.123rf.com/450wm/artemegorov/artemegorov1803/artemegorov180300004/98378269-basketball-arena-with-basketball-ball-.jpg?ver=6);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
 }
 
 code {
