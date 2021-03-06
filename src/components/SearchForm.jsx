@@ -17,7 +17,7 @@ const Button = Styled.button`
     background-color: #282c34;
     border: none;
     border-radius: 5px;
-    color: #fff;
+    color: #d67a01;
     margin-top: 5px;
     font-size: 1rem
 `;
