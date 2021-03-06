@@ -80,7 +80,7 @@ class SearchForm extends Component {
                             this._onChange("player", event.target.value)
                         }}
                     />
-                    <Button type="submit">Shoot The Shot!</Button>
+                    <Button type="submit">Take The Shot!</Button>
                 </Form>
                 
                 {playerArray.length ? <Player playerArray={playerArray} /> : <P>*Search For NBA Player*</P>}
